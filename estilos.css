@@ -1,0 +1,39 @@
+/* colocar un * antes es para todo el documento*/
+*{
+    font-family: 'Archivo Narrow','Times new roman';
+    /*font-size: 12px;*/
+}
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 17px;
+}
+h3{
+    font-size: 15px;
+}
+.content{
+    font-size: 13px;
+    font-style: italic;
+}
+.sub {
+    font-size: 11px;
+    line-height: 0px;
+}
+.image-profile{
+    width: 150px;
+    height: 200px;
+    float: left;
+ }
+header{
+    text-align: center;
+}
+body{
+    background-color: #EEDC9A;
+    text-align: justify;
+}
+
+.negrita{
+    font-weight: bold;
+    text-decoration: underline;
+}
